@@ -1,23 +1,16 @@
-**!!原创代码, 引用请注明出处!!**
+**Reinforcement Learning Implementation Inspired by [Bilibili Professor Zhao Shiyu's Lecture](https://www.bilibili.com/video/BV1sd4y167NS) at Westlake University**
 
-[b站西湖大学赵世钰老师<强化学习>](https://www.bilibili.com/video/BV1sd4y167NS/)代码实现
+### Included Topics:
 
-包括:
+- Bellman Equation
+- Value Iteration with Bellman
+- Policy Iteration with Bellman
+- Policy Iteration with Monte Carlo
+- Stochastic Gradient Descent (SGD), Batch Gradient Descent (BGD), and Mini-Batch Gradient Descent (MBGD)
+- Q-learning
+- Deep Q-learning
+- REINFORCE
 
-贝尔曼公式
+Feel free to discuss any questions or ideas! 
 
-值迭代贝尔曼
-
-策略迭代贝尔曼
-
-策略迭代蒙特卡洛
-
-SGD、BGD、MBGD
-
-Q-learning
-
-Deep Q-learning
-
-REINFORCE
-
-有问题欢迎一起讨论!
+**Original Code - Please Cite the Source if Referenced**
