@@ -10,6 +10,7 @@
 - Q-learning
 - Deep Q-learning
 - REINFORCE
+- A2C
 
 Feel free to discuss any questions or ideas! 
 

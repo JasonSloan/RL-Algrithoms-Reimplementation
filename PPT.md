@@ -820,6 +820,44 @@ Off-policy含义为：先生成一个episode的经验，然后根据该经验改
 
 ![](codes/assets/291.jpg)
 
+# 十. Actor-Critic方法
+
+## 1. QAC算法
+
+![](codes/assets/292.jpg)
+
+![](codes/assets/293.jpg)
+
+![](codes/assets/294.jpg)
+
+![](codes/assets/295.jpg)
+
+![](codes/assets/296.jpg)
+
+## 2. A2C算法
+
+![](codes/assets/297.jpg)
+
+![](codes/assets/298.jpg)
+
+![](codes/assets/299.jpg)
+
+![](codes/assets/300.jpg)
+
+![](codes/assets/301.jpg)
+
+![](codes/assets/302.jpg)
+
+![](codes/assets/303.jpg)
+
+![](codes/assets/304.jpg)
+
+![](codes/assets/305.jpg)
+
+
+
+
+
 
 
 
